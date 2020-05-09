@@ -1,0 +1,21 @@
+.bg-custom{
+    background-color: #CB7D77;
+}
+body{
+    background-color: #FDECEC;
+}
+.btn-custom{
+    background-color: #CB7D77;
+    color: whitesmoke
+}
+.jumbotron-custom{
+    background-color: #FDECEC;
+    margin: 6em 9em 1em 8em;
+}
+#profile {
+    color: gainsboro;
+}
+
+h2{
+    margin: 0 2em 2em 4em;
+}
